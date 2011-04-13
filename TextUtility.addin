@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>TextUtility</Name>
+		<Assembly>C:\Assembly Path Here</Assembly>
+		<AddInId>21373528-e033-4ea9-bd6a-2e03f6cf0044</AddInId>
+		<FullClassName>TextUtility.CaseRibbon</FullClassName>
+   </AddIn>
+</RevitAddIns>
